@@ -12,7 +12,7 @@ e.g. red(attribute) can be used to discriminate apple (concept1) from banana (co
 
 More examples:
 
-| Attribute | concept1 | concept2 | label |
+| concept1 | concept2 | Attribute | label |
 | --------- | -------- | -------- | ----- |
 | bookcase | fridge | wood | 1 |
 | bucket | mug | round | 0 |
